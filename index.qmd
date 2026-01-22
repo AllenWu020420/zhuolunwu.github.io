@@ -5,4 +5,4 @@ title: "zhuolun wu"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-![](./images/f7646e2d0fa48af9239b86dcbc6af48.jpeg){fig-width=7 fig-align="center"}
+![](./images/f7646e62d0fa48af9239b86dcbc6af48.jpeg){width="75%" fig-align="center"}

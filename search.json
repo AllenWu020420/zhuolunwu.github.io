@@ -4,13 +4,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "zhuolun wu",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About this site ## Python Example (Embedded Code + Output)\nimport pandas as pd\ndf = pd.DataFrame({ “Course”: [“AWS Academy”, “Quarto Website”, “Python”], “Status”: [“In Progress”, “Completed”, “In Progress”], “Score”: [95, 100, 98] })\ndf"
   }
 ]

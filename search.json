@@ -4,6 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site ## Python Example (Embedded Code + Output)\nimport pandas as pd\ndf = pd.DataFrame({ “Course”: [“AWS Academy”, “Quarto Website”, “Python”], “Status”: [“In Progress”, “Completed”, “In Progress”], “Score”: [95, 100, 98] })\ndf"
+    "text": "import platform\n\ninfo = {\n  \"OS\": platform.system(),\n  \"OS Version\": platform.release(),\n  \"Python\": platform.python_version(),\n  \"Machine\": platform.machine()\n}\n\ninfo\n\n{'OS': 'Linux',\n 'OS Version': '6.11.0-1018-azure',\n 'Python': '3.12.12',\n 'Machine': 'x86_64'}"
+  },
+  {
+    "objectID": "about.html#python-example-embedded-code-output",
+    "href": "about.html#python-example-embedded-code-output",
+    "title": "About",
+    "section": "",
+    "text": "import platform\n\ninfo = {\n  \"OS\": platform.system(),\n  \"OS Version\": platform.release(),\n  \"Python\": platform.python_version(),\n  \"Machine\": platform.machine()\n}\n\ninfo\n\n{'OS': 'Linux',\n 'OS Version': '6.11.0-1018-azure',\n 'Python': '3.12.12',\n 'Machine': 'x86_64'}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my Quarto website.\nThis site includes an embedded Python code cell and output to meet the AWS Academy requirement."
   }
 ]

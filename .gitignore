@@ -2,3 +2,6 @@
 **/*.quarto_ipynb
 .venv/**.deb
 *.deb
+_site/
+site_libs/
+*.html

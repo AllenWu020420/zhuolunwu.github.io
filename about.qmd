@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+## Python Example (Embedded Code + Output)
+
+```{python}
+import platform
+
+info = {
+  "OS": platform.system(),
+  "OS Version": platform.release(),
+  "Python": platform.python_version(),
+  "Machine": platform.machine()
+}
+
+info
+
+```

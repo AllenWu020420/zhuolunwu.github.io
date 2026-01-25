@@ -18,6 +18,6 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to my Quarto website.\nThis site includes an embedded Python code cell and output to meet the AWS Academy requirement."
+    "text": "Welcome to my Quarto website.\nThis site includes an embedded Python code cell and output to meet the AWS Academy requirement. ## Screenshot"
   }
 ]

@@ -5,3 +5,6 @@ title: "Home"
 Welcome to my Quarto website.
 
 This site includes an embedded Python code cell and output to meet the AWS Academy requirement.
+## Screenshot
+
+![](images/f7646e62d0fa48af9239b86dcbc6af48.jpeg){width=70%}

@@ -1,19 +1,43 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-## Python Example (Embedded Code + Output)
+## 👋 Background
 
-```{python}
-import platform
+I am currently pursuing a Master’s degree in Business Analytics at Boston University, with a strong academic foundation from Rutgers University where I majored in Human Resource Management and minored in Data Science.
 
-info = {
-  "OS": platform.system(),
-  "OS Version": platform.release(),
-  "Python": platform.python_version(),
-  "Machine": platform.machine()
-}
+---
 
-info
+## 🎓 Education
 
-```
+**Boston University**  
+M.S. in Business Analytics (2025–2027)
+
+**Rutgers University**  
+B.S. in Human Resource Management  
+Minor: Data Science  
+🏅 Dean’s List (Fall 2023, Spring 2024) :contentReference[oaicite:0]{index=0}  
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a data-driven business analyst who leverages analytics, machine learning, and visualization to drive strategic decision-making.
+
+---
+
+## 🌍 Interests
+
+- Data Science & AI  
+- Business Strategy  
+- Smart City & Digital Transformation  
+- Education Technology  
+
+---
+
+## 🧠 Strengths
+
+- Strong analytical thinking  
+- Cross-functional collaboration  
+- Data storytelling  
+- Problem-solving mindset  

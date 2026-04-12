@@ -1,0 +1,70 @@
+---
+title: "Projects"
+---
+
+# 📊 Selected Projects
+
+## 🌍 Global Data Analysis (2009 Dataset)
+
+- Built SQL database from raw CSV data  
+- Conducted EDA using R  
+- Found negative relationship between life expectancy and child mortality  
+- Visualized with scatter plots & histograms  
+
+---
+
+## 📈 Life Expectancy Prediction Model (2019)
+
+- Built multiple regression models in R  
+- Created categorical & interaction variables  
+- Collaborated with 4 team members  
+- Produced analytical report on predictive factors  
+
+---
+
+## 💉 COVID-19 & Economic Indicators Analysis
+
+- Calculated vaccination rates by country  
+- Used Pearson & Spearman correlation  
+- Built regression models to test relationships  
+- Visualized using Tableau + R  
+
+---
+
+## 🏭 Nutrition Industry Brand Analysis
+
+- Cleaned and processed data in Excel  
+- Built Power BI dashboards  
+- Analyzed sales trends and product distribution  
+- Created charts: pie, line, bar  
+
+---
+
+## 🤖 AI in Education Research
+
+- Collected and cleaned multi-source datasets  
+- Built statistical models in R  
+- Applied ML (clustering, decision trees)  
+- Built dashboards (Power BI / Tableau)  
+- Identified at-risk students  
+- Delivered data-driven recommendations  
+
+---
+
+# 💼 Professional Experience
+
+## Data Analyst – ZJATI (2025)
+
+- Built dashboards and KPI tracking systems  
+- Supported data warehouse optimization  
+- Applied ML models for prediction and clustering  
+- Worked on AI & smart city projects  
+
+---
+
+## Data Analyst – Tianjin Urban Construction Institute (2023)
+
+- Extracted & cleaned data using Python & SQL  
+- Built dashboards (Tableau / Power BI)  
+- Evaluated project ROI and environmental metrics  
+- Supported strategic decision-making  

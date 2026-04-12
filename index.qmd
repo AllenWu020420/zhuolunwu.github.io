@@ -2,9 +2,38 @@
 title: "Home"
 ---
 
-Welcome to my Quarto website.
+# 👋 Zhuolun Wu
 
-This site includes an embedded Python code cell and output to meet the AWS Academy requirement.
-## Screenshot
+🎓 Boston University – Business Analytics  
+📍 Boston, MA  
+📧 zb082101@gmail.com  
+
+---
+
+## 🚀 About Me
+
+I am a data-driven business analyst with a strong background in data analytics, machine learning, and business strategy. I specialize in transforming complex datasets into actionable insights to support decision-making.
+
+---
+
+## 💡 Core Skills
+
+- Python (Pandas, NumPy)
+- SQL & Data Engineering
+- Tableau / Power BI (Dashboarding)
+- R (Statistical Modeling)
+- Machine Learning (Regression, Clustering)
+
+---
+
+## 📊 What I Do
+
+- Build data pipelines and dashboards  
+- Perform statistical and predictive analysis  
+- Support business strategy with data insights  
+
+---
+
+## 📸 Project Snapshot
 
 ![](images/f7646e62d0fa48af9239b86dcbc6af48.jpeg){width=70%}

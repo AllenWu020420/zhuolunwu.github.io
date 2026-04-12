@@ -1,0 +1,32 @@
+---
+title: "CV"
+---
+
+# 📄 Resume
+
+👉 [Download My Resume](files/zhuolun wu resume 2026.pdf)
+
+---
+
+## 💼 Summary
+
+- Data Analyst with experience in Python, SQL, and BI tools  
+- Strong background in statistical modeling and visualization  
+- Experience in AI, smart city, and business analytics projects  
+
+---
+
+## 🧰 Technical Skills
+
+- Programming: Python, R, SQL, Java  
+- Tools: Tableau, Power BI, Excel  
+- Systems: Linux  
+- Analytics: Regression, Clustering, ML  
+
+---
+
+## 🌐 Languages
+
+- English  
+- Mandarin Chinese  
+- Japanese  

@@ -36,4 +36,4 @@ I am a data-driven business analyst with a strong background in data analytics, 
 
 ## 📸 Project Snapshot
 
-![](images/f7646e62d0fa48af9239b86dcbc6af48.jpeg){width=70%}
+![](images/project.jpg){width=70%}

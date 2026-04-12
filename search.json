@@ -1,23 +1,177 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "import platform\n\ninfo = {\n  \"OS\": platform.system(),\n  \"OS Version\": platform.release(),\n  \"Python\": platform.python_version(),\n  \"Machine\": platform.machine()\n}\n\ninfo\n\n{'OS': 'Linux',\n 'OS Version': '6.11.0-1018-azure',\n 'Python': '3.12.12',\n 'Machine': 'x86_64'}"
+    "text": "📧 Email: zb082101@gmail.com\n📞 Phone: +1 646-284-1928\n📍 Location: Boston, MA\n\n\n\n\nLinkedIn: https://www.linkedin.com/in/zhuolunwu\n\nGitHub: https://github.com/AllenWu020420\n\n\n\n\n\nI am open to:\n\nData Analyst roles\n\nBusiness Analytics internships\n\nResearch collaboration\n\nFeel free to reach out!"
   },
   {
-    "objectID": "about.html#python-example-embedded-code-output",
-    "href": "about.html#python-example-embedded-code-output",
-    "title": "About",
+    "objectID": "contact.html#professional-links",
+    "href": "contact.html#professional-links",
+    "title": "Contact",
     "section": "",
-    "text": "import platform\n\ninfo = {\n  \"OS\": platform.system(),\n  \"OS Version\": platform.release(),\n  \"Python\": platform.python_version(),\n  \"Machine\": platform.machine()\n}\n\ninfo\n\n{'OS': 'Linux',\n 'OS Version': '6.11.0-1018-azure',\n 'Python': '3.12.12',\n 'Machine': 'x86_64'}"
+    "text": "LinkedIn: https://www.linkedin.com/in/zhuolunwu\n\nGitHub: https://github.com/AllenWu020420"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "I am open to:\n\nData Analyst roles\n\nBusiness Analytics internships\n\nResearch collaboration\n\nFeel free to reach out!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently pursuing a Master’s degree in Business Analytics at Boston University, with a strong academic foundation from Rutgers University where I majored in Human Resource Management and minored in Data Science."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently pursuing a Master’s degree in Business Analytics at Boston University, with a strong academic foundation from Rutgers University where I majored in Human Resource Management and minored in Data Science."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nBoston University\nM.S. in Business Analytics (2025–2027)\nRutgers University\nB.S. in Human Resource Management\nMinor: Data Science\n🏅 Dean’s List (Fall 2023, Spring 2024) :contentReferenceoaicite:0"
+  },
+  {
+    "objectID": "about.html#career-goal",
+    "href": "about.html#career-goal",
+    "title": "About Me",
+    "section": "🎯 Career Goal",
+    "text": "🎯 Career Goal\nMy goal is to become a data-driven business analyst who leverages analytics, machine learning, and visualization to drive strategic decision-making."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "🌍 Interests",
+    "text": "🌍 Interests\n\nData Science & AI\n\nBusiness Strategy\n\nSmart City & Digital Transformation\n\nEducation Technology"
+  },
+  {
+    "objectID": "about.html#strengths",
+    "href": "about.html#strengths",
+    "title": "About Me",
+    "section": "🧠 Strengths",
+    "text": "🧠 Strengths\n\nStrong analytical thinking\n\nCross-functional collaboration\n\nData storytelling\n\nProblem-solving mindset"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "👉 Download My Resume\n\n\n\n\nData Analyst with experience in Python, SQL, and BI tools\n\nStrong background in statistical modeling and visualization\n\nExperience in AI, smart city, and business analytics projects\n\n\n\n\n\n\nProgramming: Python, R, SQL, Java\n\nTools: Tableau, Power BI, Excel\n\nSystems: Linux\n\nAnalytics: Regression, Clustering, ML\n\n\n\n\n\n\nEnglish\n\nMandarin Chinese\n\nJapanese"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "CV",
+    "section": "",
+    "text": "Data Analyst with experience in Python, SQL, and BI tools\n\nStrong background in statistical modeling and visualization\n\nExperience in AI, smart city, and business analytics projects"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "",
+    "text": "Programming: Python, R, SQL, Java\n\nTools: Tableau, Power BI, Excel\n\nSystems: Linux\n\nAnalytics: Regression, Clustering, ML"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "",
+    "text": "English\n\nMandarin Chinese\n\nJapanese"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built SQL database from raw CSV data\n\nConducted EDA using R\n\nFound negative relationship between life expectancy and child mortality\n\nVisualized with scatter plots & histograms\n\n\n\n\n\n\nBuilt multiple regression models in R\n\nCreated categorical & interaction variables\n\nCollaborated with 4 team members\n\nProduced analytical report on predictive factors\n\n\n\n\n\n\nCalculated vaccination rates by country\n\nUsed Pearson & Spearman correlation\n\nBuilt regression models to test relationships\n\nVisualized using Tableau + R\n\n\n\n\n\n\nCleaned and processed data in Excel\n\nBuilt Power BI dashboards\n\nAnalyzed sales trends and product distribution\n\nCreated charts: pie, line, bar\n\n\n\n\n\n\nCollected and cleaned multi-source datasets\n\nBuilt statistical models in R\n\nApplied ML (clustering, decision trees)\n\nBuilt dashboards (Power BI / Tableau)\n\nIdentified at-risk students\n\nDelivered data-driven recommendations"
+  },
+  {
+    "objectID": "projects.html#global-data-analysis-2009-dataset",
+    "href": "projects.html#global-data-analysis-2009-dataset",
+    "title": "Projects",
+    "section": "",
+    "text": "Built SQL database from raw CSV data\n\nConducted EDA using R\n\nFound negative relationship between life expectancy and child mortality\n\nVisualized with scatter plots & histograms"
+  },
+  {
+    "objectID": "projects.html#life-expectancy-prediction-model-2019",
+    "href": "projects.html#life-expectancy-prediction-model-2019",
+    "title": "Projects",
+    "section": "",
+    "text": "Built multiple regression models in R\n\nCreated categorical & interaction variables\n\nCollaborated with 4 team members\n\nProduced analytical report on predictive factors"
+  },
+  {
+    "objectID": "projects.html#covid-19-economic-indicators-analysis",
+    "href": "projects.html#covid-19-economic-indicators-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Calculated vaccination rates by country\n\nUsed Pearson & Spearman correlation\n\nBuilt regression models to test relationships\n\nVisualized using Tableau + R"
+  },
+  {
+    "objectID": "projects.html#nutrition-industry-brand-analysis",
+    "href": "projects.html#nutrition-industry-brand-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Cleaned and processed data in Excel\n\nBuilt Power BI dashboards\n\nAnalyzed sales trends and product distribution\n\nCreated charts: pie, line, bar"
+  },
+  {
+    "objectID": "projects.html#ai-in-education-research",
+    "href": "projects.html#ai-in-education-research",
+    "title": "Projects",
+    "section": "",
+    "text": "Collected and cleaned multi-source datasets\n\nBuilt statistical models in R\n\nApplied ML (clustering, decision trees)\n\nBuilt dashboards (Power BI / Tableau)\n\nIdentified at-risk students\n\nDelivered data-driven recommendations"
+  },
+  {
+    "objectID": "projects.html#data-analyst-zjati-2025",
+    "href": "projects.html#data-analyst-zjati-2025",
+    "title": "Projects",
+    "section": "Data Analyst – ZJATI (2025)",
+    "text": "Data Analyst – ZJATI (2025)\n\nBuilt dashboards and KPI tracking systems\n\nSupported data warehouse optimization\n\nApplied ML models for prediction and clustering\n\nWorked on AI & smart city projects"
+  },
+  {
+    "objectID": "projects.html#data-analyst-tianjin-urban-construction-institute-2023",
+    "href": "projects.html#data-analyst-tianjin-urban-construction-institute-2023",
+    "title": "Projects",
+    "section": "Data Analyst – Tianjin Urban Construction Institute (2023)",
+    "text": "Data Analyst – Tianjin Urban Construction Institute (2023)\n\nExtracted & cleaned data using Python & SQL\n\nBuilt dashboards (Tableau / Power BI)\n\nEvaluated project ROI and environmental metrics\n\nSupported strategic decision-making"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to my Quarto website.\nThis site includes an embedded Python code cell and output to meet the AWS Academy requirement. ## Screenshot"
+    "text": "🎓 Boston University – Business Analytics\n📍 Boston, MA\n📧 zb082101@gmail.com\n\n\n\nI am a data-driven business analyst with a strong background in data analytics, machine learning, and business strategy. I specialize in transforming complex datasets into actionable insights to support decision-making.\n\n\n\n\n\nPython (Pandas, NumPy)\nSQL & Data Engineering\nTableau / Power BI (Dashboarding)\nR (Statistical Modeling)\nMachine Learning (Regression, Clustering)\n\n\n\n\n\n\nBuild data pipelines and dashboards\n\nPerform statistical and predictive analysis\n\nSupport business strategy with data insights"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I am a data-driven business analyst with a strong background in data analytics, machine learning, and business strategy. I specialize in transforming complex datasets into actionable insights to support decision-making."
+  },
+  {
+    "objectID": "index.html#core-skills",
+    "href": "index.html#core-skills",
+    "title": "Home",
+    "section": "",
+    "text": "Python (Pandas, NumPy)\nSQL & Data Engineering\nTableau / Power BI (Dashboarding)\nR (Statistical Modeling)\nMachine Learning (Regression, Clustering)"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Home",
+    "section": "",
+    "text": "Build data pipelines and dashboards\n\nPerform statistical and predictive analysis\n\nSupport business strategy with data insights"
   }
 ]
